@@ -1,0 +1,9 @@
+com\desde\cursos\controllers\DocenteController.class
+com\desde\cursos\controllers\CursoController.class
+com\desde\cursos\entities\Curso.class
+com\desde\cursos\services\CursoService.class
+com\desde\cursos\services\DocenteService.class
+com\desde\cursos\repositories\CursoRepository.class
+com\desde\cursos\repositories\DocenteRepository.class
+com\desde\cursos\DesdeCursosApplication.class
+com\desde\cursos\entities\Docente.class
