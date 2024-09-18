@@ -19,3 +19,18 @@ Primero, clona el repositorio a tu máquina local:
 ```bash
 git clone https://github.com/tuusuario/cursos.git
 cd cursos
+
+Configuración de la Base de Datos****
+CREATE DATABASE cursosdb;
+
+
+Configuración de la Aplicación
+
+spring.datasource.url=jdbc:mysql://localhost:3306/cursosdb
+spring.datasource.username=root
+spring.datasource.password=
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+
+
+
